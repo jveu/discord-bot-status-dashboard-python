@@ -2,6 +2,8 @@
 
 A clean, simple Python Discord bot for status, statistics, health, server information, settings, and commands.
 
+**MESSAGE @JVEU ON DISCORD IF WANTING ANY PERMISIONS TO SELL ETC**
+
 **Credits: @jveu**
 
 ## Commands
